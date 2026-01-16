@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Aditya Raj</h1>
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Aditya+Raj;Software+Developer+%7C+ML+Engineer;AI+Enthusiast+%7C+ECE+Engineer" />
-</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Futuristic%20Developer-00E5FF?style=for-the-badge&logo=github" />
