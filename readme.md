@@ -164,7 +164,7 @@ MobileNetV2-based deep learning model for classifying skin diseases from images 
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 - [ ] Contribute to open-source AI/ML projects
 - [ ] Build and deploy a production-grade GenAI app
