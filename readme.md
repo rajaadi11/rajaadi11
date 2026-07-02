@@ -13,9 +13,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aditya--raj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-raj)
-[![GitHub](https://img.shields.io/badge/GitHub-Aadi1102-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aadi1102)
-[![LeetCode](https://img.shields.io/badge/LeetCode-rajaadi11-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/rajaadi11)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aditya--raj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-raj-7969b8280/)
+[![GitHub](https://img.shields.io/badge/GitHub-Aadi1102-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajaadi11)
+[![LeetCode](https://img.shields.io/badge/LeetCode-rajaadi11-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Aadi1102/)
 [![Gmail](https://img.shields.io/badge/Gmail-aadityaraj5511-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadityaraj5511@gmail.com)
 
 </div>
